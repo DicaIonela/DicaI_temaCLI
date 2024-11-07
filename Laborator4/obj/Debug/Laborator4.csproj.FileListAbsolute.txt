@@ -1,0 +1,11 @@
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\obj\Debug\Laborator4.csproj.AssemblyReference.cache
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\obj\Debug\Laborator4.csproj.CoreCompileInputs.cache
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\bin\Debug\Laborator4.exe.config
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\bin\Debug\Laborator4.exe
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\bin\Debug\Laborator4.pdb
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\bin\Debug\OpenTK.dll
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\bin\Debug\OpenTK.pdb
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\bin\Debug\OpenTK.xml
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\obj\Debug\Laborator4.csproj.Up2Date
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\obj\Debug\Laborator4.exe
+C:\Users\IONUT\Desktop\Laborator4EGCtema\Laborator4\obj\Debug\Laborator4.pdb
