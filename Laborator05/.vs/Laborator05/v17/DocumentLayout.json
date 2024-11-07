@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IONUT\\Desktop\\Laborator05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|c:\\users\\ionut\\desktop\\laborator05\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|solutionrelative:cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|c:\\users\\ionut\\desktop\\laborator05\\window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|solutionrelative:window3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|c:\\users\\ionut\\desktop\\laborator05\\vertexpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|solutionrelative:vertexpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|c:\\users\\ionut\\desktop\\laborator05\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|solutionrelative:randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|c:\\users\\ionut\\desktop\\laborator05\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|solutionrelative:axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|c:\\users\\ionut\\desktop\\laborator05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4FD92-3BCE-4553-BB2F-710E01F6BF34}|Laborator05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window3D.cs",
+              "DocumentMoniker": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Window3D.cs",
+              "RelativeDocumentMoniker": "Window3D.cs",
+              "ToolTip": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Window3D.cs",
+              "RelativeToolTip": "Window3D.cs",
+              "ViewState": "AQIAABkAAAAAmpmZmZkrwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:13:42.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VertexPoint.cs",
+              "DocumentMoniker": "C:\\Users\\IONUT\\Desktop\\Laborator05\\VertexPoint.cs",
+              "RelativeDocumentMoniker": "VertexPoint.cs",
+              "ToolTip": "C:\\Users\\IONUT\\Desktop\\Laborator05\\VertexPoint.cs",
+              "RelativeToolTip": "VertexPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:13:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Randomizer.cs",
+              "DocumentMoniker": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Randomizer.cs",
+              "RelativeDocumentMoniker": "Randomizer.cs",
+              "ToolTip": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Randomizer.cs",
+              "RelativeToolTip": "Randomizer.cs",
+              "ViewState": "AQIAAC8AAADgzMzMzMwqwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:11:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Axes.cs",
+              "DocumentMoniker": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Axes.cs",
+              "RelativeDocumentMoniker": "Axes.cs",
+              "ToolTip": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Axes.cs",
+              "RelativeToolTip": "Axes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:10:41.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Cube.cs",
+              "RelativeDocumentMoniker": "Cube.cs",
+              "ToolTip": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Cube.cs",
+              "RelativeToolTip": "Cube.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:09:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\IONUT\\Desktop\\Laborator05\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:08:07.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

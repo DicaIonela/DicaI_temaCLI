@@ -1,0 +1,11 @@
+C:\Users\IONUT\Desktop\Laborator05\obj\Debug\Laborator05.csproj.AssemblyReference.cache
+C:\Users\IONUT\Desktop\Laborator05\obj\Debug\Laborator05.csproj.CoreCompileInputs.cache
+C:\Users\IONUT\Desktop\Laborator05\bin\Debug\Laborator05.exe.config
+C:\Users\IONUT\Desktop\Laborator05\bin\Debug\Laborator05.exe
+C:\Users\IONUT\Desktop\Laborator05\bin\Debug\Laborator05.pdb
+C:\Users\IONUT\Desktop\Laborator05\bin\Debug\OpenTK.dll
+C:\Users\IONUT\Desktop\Laborator05\bin\Debug\OpenTK.pdb
+C:\Users\IONUT\Desktop\Laborator05\bin\Debug\OpenTK.xml
+C:\Users\IONUT\Desktop\Laborator05\obj\Debug\Laborato.8C879818.Up2Date
+C:\Users\IONUT\Desktop\Laborator05\obj\Debug\Laborator05.exe
+C:\Users\IONUT\Desktop\Laborator05\obj\Debug\Laborator05.pdb
